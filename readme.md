@@ -1,4 +1,4 @@
 ##nba
 
 ![](dio.jpg)
-![](the%20world.jpg)
+![](the_world.jpg)
